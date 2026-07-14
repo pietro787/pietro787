@@ -4,14 +4,10 @@
 
 ## 🚀 About Me
 - 🎮 Developing games on Roblox with Luau.
-- 🌱 I'm currently learning C#.
-- 📚 Always interested in learning new technologies and improving my programming skills.
 - ⚡ I enjoy creating systems, networking solutions, and game mechanics.
 
 ## 🛠️ Languages & Tools
 - Luau
-- Roblox Studio
-- C#
 - Git
 - GitHub
 
