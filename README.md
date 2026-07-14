@@ -3,8 +3,8 @@
 💻 Roblox Developer with 2 years of experience.
 
 ## 🚀 About Me
-- 🎮 Developing games on Roblox with Luau.
-- ⚡ I enjoy creating systems, networking solutions, and game mechanics.
+- Developing games on Roblox with Luau.
+- I enjoy creating systems, networking solutions, and game mechanics.
 
 ## 🛠️ Languages & Tools
 - Luau
