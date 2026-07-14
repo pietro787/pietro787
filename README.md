@@ -11,11 +11,5 @@
 - Git
 - GitHub
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
-
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
-
 ## 📫 Contact
-- Discord: `seu_usuario`
+- Discord: `pietroa10`
